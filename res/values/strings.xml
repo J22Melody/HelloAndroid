@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">豆瓣图书检索</string>
+    <string name="edit_message">输入你要搜索的图书 ...</string>
+    <string name="button_send">搜索</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">搜索</string>
+    <string name="title_activity_display_message">搜索结果</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
